@@ -41,12 +41,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ramazaaann&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramazaaann&layout=compact&theme=default" />
-</p>
+### 📊 GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramazaaann&theme=default" />
